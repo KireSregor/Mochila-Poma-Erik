@@ -1,0 +1,32 @@
+Comandos básicos:
+
+git init: Inicia un nuevo repositorio Git.
+git clone [URL]: Clona un repositorio remoto existente en tu directorio local.
+git add [archivo]: Agrega un archivo al área de preparación (staging area).
+git commit -m "Mensaje del commit": Crea un nuevo commit con los cambios en el área de preparación.
+git status: Muestra el estado actual del repositorio.
+git log: Muestra el historial de commits.
+git pull: Obtiene los cambios más recientes del repositorio remoto y los fusiona con la rama actual.
+git push: Envía los cambios locales al repositorio remoto.
+git branch: Muestra las ramas existentes y resalta la rama actual.
+git checkout [rama]: Cambia a la rama especificada.
+git merge [rama]: Fusiona los cambios de la rama especificada en la rama actual.
+
+Flujo de trabajo básico:
+
+git clone [URL]: Clona un repositorio remoto en tu directorio local.
+git add [archivo]: Agrega los archivos modificados al área de preparación.
+git commit -m "Mensaje del commit": Crea un nuevo commit con los cambios.
+git pull: Obtiene los cambios más recientes del repositorio remoto.
+git push: Envía tus cambios locales al repositorio remoto.
+
+Flujo de trabajo con ramas:
+
+git branch [nombre]: Crea una nueva rama con el nombre especificado.
+git checkout [rama]: Cambia a la rama especificada.
+
+Realiza cambios y commits en la nueva rama.
+
+git checkout [rama_principal]: Cambia a la rama principal.
+git merge [rama]: Fusiona los cambios de la rama secundaria en la rama principal.
+git branch -d [rama]: Elimina la rama especificada después de la fusión.
