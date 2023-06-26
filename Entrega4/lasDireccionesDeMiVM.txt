@@ -1,0 +1,4 @@
+ip privada es 192.168.0.22
+la ip publica es 179.6.170.34
+direccion MAC es 08:00:27:e6:ea:0f
+la ip publica y privada es diferente en la maquina host
