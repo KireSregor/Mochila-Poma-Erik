@@ -1,0 +1,5 @@
+1- Use la plataforma killcoda para hacer una clonacion del github
+2- Cree una rama llamada entrega5 
+3- En la rama entrega5, dentre de la mochila en la carpeta entrega 5 se creo un archivo entrega.txt
+4- Para subir el los cambios de la rama entrega5 tuve que adquirir un token
+5- Puse el token al momento de hacer el push y termine :D
